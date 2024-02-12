@@ -54,9 +54,9 @@ def buy_function():
 def sellfun():
     """Function to sell laptops to customers and remove from own stock using lists, loops and primitive data types """
     print("Please fill in your details: ")
-    shop_name = input("Name -> ")
-    shop_address = input("Address  -> ")
-    shop_number = input("Number -> ")
+    shop_name = input("Enter Your Full Name -> ")
+    shop_address = input("Enter Your Address  -> ")
+    shop_number = input("Enter Your Phone Number -> ")
 
     mydict = read()
     folder = "bill name"
