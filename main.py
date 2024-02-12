@@ -28,7 +28,7 @@ while continueLoop:
             break
         elif userinput == 3:
             print("THANK YOU VISIT AGAIN")
-            continueLoop = False
+            continueLoop = True
         else:
             print("Invalid input. Please enter a valid option.")
     except ValueError:
