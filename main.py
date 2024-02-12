@@ -5,8 +5,8 @@ continueLoop = True
 
 while continueLoop:
     print("\n")
-    print("\t\tWelcome to laptop shop")
-    print("\t\tAddress: Kamal Pokhari")
+    print("\t\tWelcome to Bahndrey laptop shop")
+    print("\t\tAddress: Rani Pokhari")
     print("_____________________________________________________________")
     print("Please select below options")
     print("_____________________________________________________________")
