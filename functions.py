@@ -23,7 +23,7 @@ def buy_function():
                 laptop_brand = input("Enter the brand of laptop: ")
                 laptop_price = int(input("Enter the price of laptop: "))
                 laptop_quantity = int(
-                    input("Enter the no  of laptops that you want to buy: "))
+                    input("Enter quantity of laptops: "))
                 laptop_cpu = input("Enter the CPU of laptop: ")
                 laptop_gpu = input("Enter the GPU of laptop: ")
                 break
