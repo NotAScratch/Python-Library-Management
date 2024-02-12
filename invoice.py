@@ -10,7 +10,7 @@ def invoice(name, address, phone, orders):
     print("-----TRANSACTION SUCCESSFUL-------")
     with open(invoice_name, "w") as file:
         file.write("_____________________________________________________________\n")
-        file.write("\t\tKamal Pokhari Laptop Shop\n")
+        file.write("\t\tBhandrey Laptop Shop\n")
         file.write("_____________________________________________________________\n")
         file.write("\t\t\tINVOICE SLIP\n")
         grand_total = 0
